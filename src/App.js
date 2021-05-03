@@ -5,7 +5,6 @@ import Header from "./components/header";
 import IncomeExpenses from "./components/incomeExpenses";
 import TransactionList from "./components/TransactionList";
 import GlobalProvider from "./context/GlobalState";
-import Counter from "./hooks/useReducer";
 
 function App() {
   return (
